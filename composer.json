@@ -1,5 +1,5 @@
 {
-   "name":"emagister/zend-form-decorators-bootstrap",
+   "name":"pica9/zend-form-decorators-bootstrap",
    "description":"Zend_Form decorators for Twitter's Bootstrap UI",
    "keywords":[
       "zend",
@@ -10,7 +10,7 @@
       "twitter bootstrap"
    ],
    "type":"library",
-   "homepage":"https://emagister.github.com/zend-form-decorators-bootstrap",
+   "homepage":"https://github.com/Pica9/zend-form-decorators-bootstrap",
    "version":"dev-master",
    "license":"MIT",
    "authors":[
