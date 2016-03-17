@@ -7,8 +7,8 @@
       "zend form decorators",
       "twitter",
       "bootstrap",
-      "twitter bootstrap"
-      "bootstrap3",
+      "twitter bootstrap",
+      "bootstrap3"
    ],
    "type":"library",
    "homepage":"https://github.com/mkuh/zend-form-decorators-bootstrap",
