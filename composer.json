@@ -1,5 +1,5 @@
 {
-   "name":"pica9/zend-form-decorators-bootstrap",
+   "name":"mkuh/zend-form-decorators-bootstrap",
    "description":"Zend_Form decorators for Twitter's Bootstrap UI",
    "keywords":[
       "zend",
@@ -8,9 +8,10 @@
       "twitter",
       "bootstrap",
       "twitter bootstrap"
+      "bootstrap3",
    ],
    "type":"library",
-   "homepage":"https://github.com/Pica9/zend-form-decorators-bootstrap",
+   "homepage":"https://github.com/mkuh/zend-form-decorators-bootstrap",
    "version":"dev-master",
    "license":"MIT",
    "authors":[
@@ -22,7 +23,7 @@
       }
    ],
    "require":{
-      "php":">=5.2.4"
+      "php":">=5.5.0"
     },
     "autoload":{
         "psr-0":{
