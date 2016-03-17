@@ -12,7 +12,7 @@
    ],
    "type":"library",
    "homepage":"https://github.com/mkuh/zend-form-decorators-bootstrap",
-   "version":"1.0.0",
+   "version":"dev-master",
    "license":"MIT",
    "authors":[
       {
