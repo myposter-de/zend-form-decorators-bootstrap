@@ -1,5 +1,5 @@
 {
-   "name":"mkuh/zend-form-decorators-bootstrap",
+   "name":"myposter/zend-form-decorators-bootstrap",
    "description":"Zend_Form decorators for Twitter's Bootstrap UI",
    "keywords":[
       "zend",
@@ -11,7 +11,7 @@
       "bootstrap3"
    ],
    "type":"library",
-   "homepage":"https://github.com/mkuh/zend-form-decorators-bootstrap",
+   "homepage":"https://github.com/myposter-de/zend-form-decorators-bootstrap",
    "version":"dev-master",
    "license":"MIT",
    "authors":[
