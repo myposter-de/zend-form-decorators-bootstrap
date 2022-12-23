@@ -164,10 +164,10 @@ abstract class Twitter_Bootstrap_Form extends Zend_Form
     protected function _getClassNames(Zend_Form_Element $element = null)
     {
         if (null !== $element) {
-            return explode(' ', $element->getAttrib('class'));
+            return explode(' ', $element->getAttrib('class') ?? '');
         }
 
-        return explode(' ', $this->getAttrib('class'));
+        return explode(' ', $this->getAttrib('class') ?? '');
     }
 
     /**
